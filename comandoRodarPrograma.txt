@@ -1,0 +1,32 @@
+Passo a passo para rodar a aplicação:
+
+1 - criar o ambiente virtual:
+    python -m venv venv
+
+2 - ativar o ambiente virtual:
+    .\venv\Scripts\Activate.ps1
+
+3 - Instalar as bibliotecas necessárias:
+    pip install -r requirements.txt
+
+4 - Rodar a aplicação estando no ambiente virtual:
+    python main.py
+
+
+
+===============================================================================
+
+
+Comandos separadamentes:
+
+Criar o ambiente virtual
+python -m venv venv
+
+Ativar o ambiente virtual
+.\venv\Scripts\Activate.ps1
+
+Salvar as bibliotecas usadas no txt
+python -m pip freeze > requirements.txt
+
+Instalar as bibliotecas apartrir do txt
+pip install -r requirements. txt
