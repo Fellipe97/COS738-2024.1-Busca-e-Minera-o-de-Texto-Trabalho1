@@ -15,6 +15,10 @@ print("\n\n\n===================================================================
 print("IMPLEMENTACAO DE UM SISTEMA DE RECUPERACAO EM MEMORIA SEGUNDO O MODELO VETORIAL")
 print("\n\n=================================================================================================\n\n")
 
+
+
+
+
 # Processador de Consultas
 print("\n=================================================================================================\n")
 print("1 - PROCESSADOR DE CONSULTAS \n")
@@ -319,12 +323,8 @@ print("=========================================================================
 
 
 
-
-
-
-
 total_time = time.time() - startTime
 print("\n\n\n=================================================================================================\n\n")
-print("🎉🎉 Programa executado com sucesso 🎉🎉\n")
-print("Tempo ao executar o programa por completo: ", total_time, " segundos.")
+print("🎉🎉 Programa executado com sucesso - Trabalho 1 🎉🎉\n")
+print("Tempo ao executar o programa por completo(Trabalho 1): ", total_time, " segundos.")
 print("\n\n=================================================================================================\n\n")
